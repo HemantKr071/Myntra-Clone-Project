@@ -1,0 +1,29 @@
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.space-between{
+    justify-content: space-between;
+}
+.semibold{
+    font-weight:bolder;
+
+}
+.mx-2{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.mgn{
+    margin-top: 14px;
+}
+
+.sup{
+    font-size: 10px;
+    color: red;
+    margin-bottom: 3px;
+}
